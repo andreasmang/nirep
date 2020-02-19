@@ -1,4 +1,4 @@
-# nirep
+# NIREP DATA
 
 This repository provides access to the data of the Non-rigid Image Registration Evaluation Project (NIREP).
 
